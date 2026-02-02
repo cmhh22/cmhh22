@@ -18,7 +18,7 @@
 🌱 Currently focused on: **Deep Learning, Transformers, LLMs, and MLOps**  
 🎯 Goal: Become a full-stack ML Engineer   
 💼 **Actively seeking opportunities** — eager to learn, contribute, and grow in the AI field  
-📍 Based in Cuba 🇨🇺
+
 
 > *Passionate about AI with a strong foundation in Computer Science. I'm building an end-to-end portfolio covering the full ML lifecycle: from data engineering to model deployment. Always open to collaborate, learn, and tackle real-world challenges.*
 
@@ -51,50 +51,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</div>
-
----
-
-## 📊 Portfolio Projects
-
-> 🚀 **Building in public** — Check out my completed and in-progress projects!
-
-| Project | Area | Tech | Status | Links |
-|---------|------|------|--------|-------|
-| [EDA Storytelling: Airbnb NYC](https://github.com/cmhh22/Portfolio-eda-storytelling) | Data Analysis | Pandas, Plotly, Streamlit | ✅ Done | [Demo](https://portfolio-eda-storytelling-cmhh22.streamlit.app/) |
-| [ML Tabular + SHAP](https://github.com/cmhh22/Portfolio-ml-tabular-shap) | Machine Learning | scikit-learn, XGBoost, SHAP | ✅ Done | [Repo](https://github.com/cmhh22/Portfolio-ml-tabular-shap) |
-| [ML BigData: NYC Taxi](https://github.com/cmhh22/Portfolio-ml-bigdata) | ML/Big Data | XGBoost, LightGBM, Streamlit | ✅ Done | [Repo](https://github.com/cmhh22/Portfolio-ml-bigdata) |
-| Time Series Forecasting | Time Series | Prophet, LSTM, PyTorch | 🚧 In Progress | — |
-| NLP Transformers | NLP | HuggingFace, BERT/Qwen | 🔜 Planned | — |
-| RAG QA System | LLM/RAG | LangChain, ChromaDB, RAGAS | 🔜 Planned | — |
-| CV Transfer Learning | Computer Vision | PyTorch, EfficientNet, Grad-CAM | 🔜 Planned | — |
-| MLOps API | MLOps | FastAPI, Docker, MLflow | 🔜 Planned | — |
-
----
-
-## 🧠 Deep Learning Projects (Course Journey)
-
-> Hands-on implementations covering fundamental to advanced architectures
-
-| Project | Area | Tech | Status | Links |
-|---------|------|------|--------|-------|
-| [MLP MNIST](https://github.com/cmhh22/Pytorch-deep-learning/tree/main/MLP-MNIST) | DL Fundamentals | PyTorch | ✅ Done | [Repo](https://github.com/cmhh22/Pytorch-deep-learning) |
-| [CNN EfficientNet](https://github.com/cmhh22/Pytorch-deep-learning/tree/main/CNN-EfficientNet) | Transfer Learning | PyTorch | ✅ Done | [Repo](https://github.com/cmhh22/Pytorch-deep-learning) |
-| LSTM Sentiment | RNN/NLP | PyTorch | 🚧 In Progress | — |
-| [Transformer Experiments](https://github.com/cmhh22/Transformer-experiments) | Transformers/NLP | HuggingFace, BERT, Qwen | ✅ Done | [Repo](https://github.com/cmhh22/Transformer-experiments) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmhh22&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmhh22&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cmhh22&theme=tokyonight&hide_border=true)](https://github.com/cmhh22)
 
 </div>
 

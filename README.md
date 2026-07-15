@@ -1,22 +1,3 @@
-<div align="center">
-
-[🇪🇸 Español](#español) · [🇬🇧 English](#english)
-
-</div>
-
----
-
-## Español
-
-# Soy Carlos M.
-
-AI/ML Engineer intentando crear IAs más potentes para mejorar el mundo. O para que me quiten el trabajo. Aún no sé cuál.
-
-> *"¿Pueden pensar las máquinas?"*
-> — Alan Turing
-
----
-
 ## English
 
 # I am Carlos M.
